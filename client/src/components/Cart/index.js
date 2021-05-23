@@ -108,3 +108,4 @@ const Cart = () => {
 };
 
 export default Cart;
+//added hooks
