@@ -2,7 +2,8 @@
   "name": "challenge-22-redux-store",
   "version": "1.0.0",
   "description": "AS a senior engineer working on an e-commerce platform\r I WANT my platform to use Redux to manage global state instead of the Context API\r SO THAT my website's state management is taken out of the React ecosystem",
-  "main": "server/server.js",
+  "engines": {
+    "node": "14.x" "main": "server/server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
     "start:prod": "cd server && npm start",
