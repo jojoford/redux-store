@@ -28,5 +28,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jojoford/redux-store.git"
+  },
+   "bugs": {
+    "url": "https://github.com/jcgom3/Challenge-22-Redux-Store/issues"
   }
 }
