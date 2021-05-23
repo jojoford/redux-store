@@ -38,7 +38,7 @@ THEN I find that the app uses Redux instead of the Context API
 
 # screenshot
 
-
+![webpage screenshot](./client/public/images/webpage-screenshot.png)
 
 
 # Table of Contents 
