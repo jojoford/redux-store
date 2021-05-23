@@ -73,7 +73,7 @@ THEN I find that the app uses Redux instead of the Context API
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 # Contributing
-​Contributors: N/A
+​Contributors: OwaisIslam
 
 # Tests
 N/A
@@ -81,5 +81,5 @@ N/A
 # Questions?
 ## Please contact me:
   * [My GitHub Profile](https://github.com/jojoford)
-  * [My Github Project Repository](https://github.com/)
+  * [My Github Project Repository](https://github.com/jojoford/redux-store)
   * [My Github Deployed IO](https://)
